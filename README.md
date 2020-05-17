@@ -15,7 +15,15 @@ Encoded : mqjmlgb nklj
 
 
 # Implementation Details
+
 There are two different ways: 
 
 1. A brute force version that uses a spell checker
 2. Frequency analysis
+
+
+# How to run
+
+1. Download Ubuntu clisp package
+2. load decode.lisp file
+
