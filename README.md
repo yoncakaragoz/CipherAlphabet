@@ -25,5 +25,5 @@ There are two different ways:
 # How to run
 
 1. Download Ubuntu clisp package
-2. Load << decode.lisp >> file
+2. Load decode.lisp file
 
